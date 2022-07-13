@@ -1,0 +1,2 @@
+This is a sample text file. 
+Used basically to practice building a fetch API sandbox
